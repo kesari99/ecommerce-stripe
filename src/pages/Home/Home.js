@@ -7,7 +7,7 @@ export default function Home() {
     <div className="info">
       <div className="content">
         <div className="head">
-          <h1>Ready for new stuff</h1>
+          <h1>Welcom to ecommerce store</h1>
           <p>Buy new stock at reasonable cost</p>
 
           <Link to="/products">

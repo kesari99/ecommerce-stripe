@@ -11,7 +11,7 @@ export default function Navbar() {
   return (
     <div className="nav">
       <div className="nav-container">
-        <h1>Trends</h1>
+        <h1>Shopify</h1>
 
         <ul className="links">
           <Link to="/">
